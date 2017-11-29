@@ -39,3 +39,5 @@ $ rails server
 
 For more information, see the
 [*Ruby on Rails Tutorial* book](http://www.railstutorial.org/book).
+
+deployed @ https://nameless-forest-81748.herokuapp.com/
